@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="grass" tilewidth="32" tileheight="32">
+  <image source="grass.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="17" name="brick" tilewidth="32" tileheight="32">
+  <image source="brick.png" width="128" height="128"/>
+ </tileset>
+ <layer name="块层 1" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJwTZGBgEKQyZkTC1NDLSAEmZAc1zCbWXkJuoKf7Rs0bNW/UvJFpHjUxAJQ1B8E=
+  </data>
+ </layer>
+</map>
